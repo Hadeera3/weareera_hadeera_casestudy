@@ -2,6 +2,10 @@
 
 A Streamlit-based app that analyzes a user's social media bio and recent posts to predict influencer personality types and recommend relevant product categories.
 
+## Demo
+
+https://weareerahadeera.streamlit.app
+
 ---
 
 ## What It Does
