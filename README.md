@@ -4,7 +4,7 @@ A Streamlit-based app that analyzes a user's social media bio and recent posts t
 
 ## Demo
 
-https://weareerahadeera.streamlit.app
+https://weareerahadeera0.streamlit.app
 
 ---
 
