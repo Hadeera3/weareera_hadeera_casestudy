@@ -1,136 +1,157 @@
 {
-    "Tech Enthusiast": [
-      { "product": "Raspberry Pi 4", "category": "Microcontroller" },
-      { "product": "ESP32 Dev Kit", "category": "Microcontroller" },
-      { "product": "Visual Studio Code", "category": "Developer Tool" },
-      { "product": "GitHub Copilot", "category": "Developer Tool" },
-      { "product": "Gaming Mouse", "category": "PC Gear" },
-      { "product": "Elgato Stream Deck", "category": "Streaming Gear" },
-      { "product": "Notion Pro Plan", "category": "Productivity Tool" }
-    ],
-    "Foodie Explorer": [
-      { "product": "Airfryer", "category": "Kitchen Appliance" },
-      { "product": "Japanese Chef’s Knife", "category": "Cookware" },
-      { "product": "Sustainable Snack Box", "category": "Food Subscription" },
-      { "product": "Meal Prep Containers", "category": "Food Storage" },
-      { "product": "Immersion Blender", "category": "Kitchen Appliance" }
-    ],
-    "Fitness Junkie": [
-      { "product": "Adjustable Dumbbells", "category": "Fitness Gear" },
-      { "product": "Whey Protein", "category": "Supplements" },
-      { "product": "Resistance Bands", "category": "Home Gym" },
-      { "product": "Yoga Mat & Block Set", "category": "Mindful Fitness" }
-    ],
-    "Minimalist Artist": [
-      { "product": "Sketchbook Set", "category": "Art Supplies" },
-      { "product": "iPad Pro with Pencil", "category": "Digital Art" },
-      { "product": "Acrylic Paint Kit", "category": "Art Supplies" },
-      { "product": "Resin Kit", "category": "DIY Craft" },
-      { "product": "Macramé Starter Pack", "category": "Home Decor DIY" }
-    ],
-    "Travel Nomad": [
-      { "product": "Travel Backpack", "category": "Travel Gear" },
-      { "product": "GoPro Camera", "category": "Adventure Gear" },
-      { "product": "Airbnb Gift Card", "category": "Experiences" }
-    ],
-    "Animal Lover": [
-      { "product": "Cat Tree Tower", "category": "Pet Supplies" },
-      { "product": "Pet DNA Kit", "category": "Pet Health" },
-      { "product": "Pet First Aid Kit", "category": "Pet Health" },
-      { "product": "Custom Pet Portrait", "category": "Pet Keepsakes" }
-    ],
-    "Book Worm": [
-      { "product": "Kindle Paperwhite", "category": "E-Reader" },
-      { "product": "Book of the Month Subscription", "category": "Book Club" },
-      { "product": "Leather Bookmark Set", "category": "Accessories" }
-    ],
-    "Music Buff": [
-      { "product": "Noise-Canceling Headphones", "category": "Audio Gear" },
-      { "product": "Vinyl Record Player", "category": "Audio Gear" },
-      { "product": "Spotify Premium", "category": "Streaming Subscription" }
-    ],
-    "Movie Buff": [
-      { "product": "Criterion Channel Membership", "category": "Streaming" },
-      { "product": "4K Projector", "category": "Home Theater" },
-      { "product": "Letterboxd Pro", "category": "Film Tracking" }
-    ],
-    "Plant Parent": [
-      { "product": "Self-Watering Planter", "category": "Gardening Gear" },
-      { "product": "LED Grow Light", "category": "Indoor Garden" },
-      { "product": "Plant Care App Pro", "category": "Apps" }
-    ],
-    "Gamer": [
-      { "product": "Gaming Mouse", "category": "PC Gear" },
-      { "product": "Elgato Stream Deck", "category": "Streaming Gear" },
-      { "product": "PlayStation Plus", "category": "Gaming Subscription" }
-    ],
-    "Fashionista": [
-      { "product": "Style Box Subscription", "category": "Fashion" },
-      { "product": "Sneaker Cleaning Kit", "category": "Footwear Care" },
-      { "product": "Minimalist Watch", "category": "Accessories" }
-    ],
-    "Entrepreneur": [
-      { "product": "Notion Pro Plan", "category": "Productivity Tool" },
-      { "product": "Standing Desk", "category": "Office Gear" },
-      { "product": "Startup Toolkit Book", "category": "Entrepreneurship" }
-    ],
-    "Crafts Maker": [
-      { "product": "Resin Kit", "category": "DIY Craft" },
-      { "product": "Glue Gun Set", "category": "Craft Tools" },
-      { "product": "Macramé Starter Pack", "category": "Home Decor DIY" }
-    ],
-    "Environmental Activist": [
-      { "product": "Compost Bin", "category": "Eco Living" },
-      { "product": "Solar Charger", "category": "Green Tech" },
-      { "product": "Reusable Grocery Bags", "category": "Sustainability" }
-    ],
-    "Parenting Mentor": [
-      { "product": "Ergonomic Baby Carrier", "category": "Parenting Gear" },
-      { "product": "Montessori Toy Kit", "category": "Child Development" },
-      { "product": "White Noise Machine", "category": "Sleep Aids" }
-    ],
-    "Wellness Guru": [
-      { "product": "Essential Oil Diffuser", "category": "Wellness" },
-      { "product": "Yoga Mat & Block Set", "category": "Mindful Fitness" },
-      { "product": "Gratitude Journal", "category": "Self-Reflection" }
-    ],
-    "Home Chef": [
-      { "product": "Japanese Chef’s Knife", "category": "Cookware" },
-      { "product": "Airfryer", "category": "Kitchen Appliance" },
-      { "product": "Meal Prep Containers", "category": "Food Storage" },
-      { "product": "Immersion Blender", "category": "Kitchen Appliance" },
-      { "product": "Cast Iron Skillet", "category": "Cookware" }
-    ],
-    "Finance Nerd": [
-      { "product": "Budgeting App Subscription", "category": "Finance Tools" },
-      { "product": "Crypto Wallet Hardware", "category": "Finance Tech" },
-      { "product": "Stock Market Simulation Game", "category": "Education" }
-    ],
-    "Petfluencer": [
-      { "product": "Automatic Pet Feeder", "category": "Smart Pet Gear" },
-      { "product": "Pet Camera", "category": "Smart Pet Gear" },
-      { "product": "Custom Pet Portrait", "category": "Pet Keepsakes" },
-      { "product": "Pet First Aid Kit", "category": "Pet Health" }
-    ],
-    "Political Commentator": [
-      { "product": "New York Times Digital", "category": "News Subscription" },
-      { "product": "Pocket Premium", "category": "Reading App" },
-      { "product": "Blue Yeti USB Mic", "category": "Podcasting Gear" },
-      { "product": "Public Speaking Masterclass", "category": "Online Course" },
-      { "product": "Moleskine Notebook", "category": "Note Taking" }
-    ],
-    "Pop Culture Fan": [
-      { "product": "People Magazine Subscription", "category": "Media" },
-      { "product": "TikTok Ring Light", "category": "Content Creation" },
-      { "product": "Netflix Premium Plan", "category": "Streaming" },
-      { "product": "Funko Pop Collectibles", "category": "Merchandise" },
-      { "product": "YouTube Premium", "category": "Streaming Subscription" }
-    ],
-    "Digital Minimalist": [
-      { "product": "Time-Blocking Planner", "category": "Productivity Tool" },
-      { "product": "Minimal Phone Case", "category": "Accessories" },
-      { "product": "Distraction-Free Writing App", "category": "Focus Tools" },
-      { "product": "Analog Alarm Clock", "category": "Mindful Living" }
-    ]
-  }
-  
+  "Tech Enthusiast": [
+    { "product": "Raspberry Pi 4",               "category": "Microcontroller" },
+    { "product": "ESP32 Dev Kit",                "category": "Microcontroller" },
+    { "product": "Visual Studio Code",           "category": "Developer Tool" },
+    { "product": "GitHub Copilot",               "category": "Developer Tool" },
+    { "product": "Gaming Mouse",                 "category": "PC Gear" },
+    { "product": "Elgato Stream Deck",           "category": "Streaming Gear" },
+    { "product": "Notion Pro Plan",              "category": "Productivity Tool" }
+  ],
+
+  "Foodie Explorer": [
+    { "product": "Airfryer",                     "category": "Kitchen Appliance" },
+    { "product": "Japanese Chef’s Knife",        "category": "Cookware" },
+    { "product": "Sustainable Snack Box",        "category": "Food Subscription" },
+    { "product": "Meal Prep Containers",         "category": "Food Storage" },
+    { "product": "Immersion Blender",            "category": "Kitchen Appliance" }
+  ],
+
+  "Fitness Junkie": [
+    { "product": "Adjustable Dumbbells",         "category": "Fitness Gear" },
+    { "product": "Whey Protein",                 "category": "Supplements" },
+    { "product": "Resistance Bands",             "category": "Home Gym" },
+    { "product": "Yoga Mat & Block Set",         "category": "Mindful Fitness" }
+  ],
+
+  "Minimalist Artist": [
+    { "product": "Sketchbook Set",               "category": "Art Supplies" },
+    { "product": "iPad Pro with Pencil",         "category": "Digital Art" },
+    { "product": "Acrylic Paint Kit",            "category": "Art Supplies" },
+    { "product": "Resin Kit",                    "category": "DIY Craft" },
+    { "product": "Macramé Starter Pack",         "category": "Home Decor DIY" }
+  ],
+
+  "Travel Nomad": [
+    { "product": "Travel Backpack",              "category": "Travel Gear" },
+    { "product": "GoPro Camera",                 "category": "Adventure Gear" },
+    { "product": "Airbnb Gift Card",             "category": "Experiences" }
+  ],
+
+  "Animal Lover": [
+    { "product": "Cat Tree Tower",               "category": "Pet Supplies" },
+    { "product": "Animal DNA Kit",               "category": "Animal Health" },
+    { "product": "Animal First Aid Kit",         "category": "Animal Health" },
+    { "product": "Custom Animal Portrait",       "category": "Animal Keepsakes" }
+  ],
+
+  "Book Worm": [
+    { "product": "Kindle Paperwhite",            "category": "E-Reader" },
+    { "product": "Book of the Month Subscription","category": "Book Club" },
+    { "product": "Leather Bookmark Set",         "category": "Accessories" }
+  ],
+
+  "Music Buff": [
+    { "product": "Noise-Canceling Headphones",   "category": "Audio Gear" },
+    { "product": "Vinyl Record Player",          "category": "Audio Gear" },
+    { "product": "Spotify Premium",              "category": "Streaming Subscription" }
+  ],
+
+  "Movie Buff": [
+    { "product": "Criterion Channel Membership", "category": "Streaming" },
+    { "product": "4K Projector",                 "category": "Home Theater" },
+    { "product": "Letterboxd Pro",               "category": "Film Tracking" }
+  ],
+
+  "Plant Parent": [
+    { "product": "Self-Watering Planter",        "category": "Gardening Gear" },
+    { "product": "LED Grow Light",               "category": "Indoor Garden" },
+    { "product": "Plant Care App Pro",           "category": "Apps" }
+  ],
+
+  "Gamer": [
+    { "product": "Pro Gaming Mouse",             "category": "PC Gear" },
+    { "product": "Elgato Stream Deck Plus",      "category": "Streaming Gear" },
+    { "product": "PlayStation Plus",             "category": "Gaming Subscription" }
+  ],
+
+  "Fashionista": [
+    { "product": "Style Box Subscription",       "category": "Fashion" },
+    { "product": "Sneaker Cleaning Kit",         "category": "Footwear Care" },
+    { "product": "Minimalist Watch",             "category": "Accessories" }
+  ],
+
+  "Entrepreneur": [
+    { "product": "Notion Teams Plan",            "category": "Productivity Tool" },
+    { "product": "Standing Desk",                "category": "Office Gear" },
+    { "product": "Startup Toolkit Book",         "category": "Entrepreneurship" }
+  ],
+
+  "Crafts Maker": [
+    { "product": "Advanced Resin Kit",           "category": "DIY Craft" },
+    { "product": "Glue Gun Set",                 "category": "Craft Tools" },
+    { "product": "Macramé Wall Hanging Kit",     "category": "Home Decor DIY" }
+  ],
+
+  "Environmental Activist": [
+    { "product": "Compost Bin",                  "category": "Eco Living" },
+    { "product": "Solar Charger",                "category": "Green Tech" },
+    { "product": "Reusable Grocery Bags",        "category": "Sustainability" }
+  ],
+
+  "Parenting Mentor": [
+    { "product": "Ergonomic Baby Carrier",       "category": "Parenting Gear" },
+    { "product": "Montessori Toy Kit",           "category": "Child Development" },
+    { "product": "White Noise Machine",          "category": "Sleep Aids" }
+  ],
+
+  "Wellness Guru": [
+    { "product": "Essential Oil Diffuser",       "category": "Wellness" },
+    { "product": "Eco Yoga Mat & Block Set",     "category": "Mindful Fitness" },
+    { "product": "Gratitude Journal",            "category": "Self-Reflection" }
+  ],
+
+  "Home Chef": [
+    { "product": "Santoku Chef’s Knife",         "category": "Cookware" },
+    { "product": "Digital Air Fryer Oven",       "category": "Kitchen Appliance" },
+    { "product": "Glass Meal Prep Containers",   "category": "Food Storage" },
+    { "product": "Professional Immersion Blender","category": "Kitchen Appliance" },
+    { "product": "Cast Iron Skillet",            "category": "Cookware" }
+  ],
+
+  "Finance Nerd": [
+    { "product": "Budgeting App Subscription",   "category": "Finance Tools" },
+    { "product": "Crypto Wallet Hardware",       "category": "Finance Tech" },
+    { "product": "Stock Market Simulation Game", "category": "Education" }
+  ],
+
+  "Petfluencer": [
+    { "product": "Automatic Pet Feeder",         "category": "Smart Pet Gear" },
+    { "product": "Pet Camera",                   "category": "Smart Pet Gear" },
+    { "product": "Custom Pet Portrait",          "category": "Pet Keepsakes" },
+    { "product": "Pet First Aid Kit",            "category": "Pet Health" }
+  ],
+
+  "Political Commentator": [
+    { "product": "New York Times Digital",       "category": "News Subscription" },
+    { "product": "Pocket Premium",               "category": "Reading App" },
+    { "product": "Blue Yeti USB Mic",            "category": "Podcasting Gear" },
+    { "product": "Public Speaking Masterclass",  "category": "Online Course" },
+    { "product": "Moleskine Notebook",           "category": "Note Taking" }
+  ],
+
+  "Pop Culture Fan": [
+    { "product": "People Magazine Subscription", "category": "Media" },
+    { "product": "TikTok Ring Light",            "category": "Content Creation" },
+    { "product": "Netflix Premium Plan",         "category": "Streaming" },
+    { "product": "Funko Pop Collectibles",       "category": "Merchandise" },
+    { "product": "YouTube Premium",              "category": "Streaming Subscription" }
+  ],
+
+  "Digital Minimalist": [
+    { "product": "Time-Blocking Planner",        "category": "Productivity Tool" },
+    { "product": "Minimal Phone Case",           "category": "Accessories" },
+    { "product": "Distraction-Free Writing App", "category": "Focus Tools" },
+    { "product": "Analog Alarm Clock",           "category": "Mindful Living" }
+  ]
+}

@@ -54,7 +54,7 @@ Lit major turned empath. Send tea 🍵✨
 
 3. Install Dependencies
 
-   poetry install --no -root
+   poetry install --no-root
 
 4. Run the App
 
