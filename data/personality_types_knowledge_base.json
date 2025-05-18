@@ -1,0 +1,278 @@
+[
+  {
+    "label": "Tech Enthusiast",
+    "description": "Loves AI, coding, open-source tools, and staying up-to-date with the latest in tech.",
+    "traits": ["analytical", "innovative", "curious"],
+    "sample_posts": [
+      "Just shipped my new VSCode plugin!",
+      "Self-hosted LLMs on my home server.",
+      "Why Rust is the future of systems programming."
+    ],
+    "emoji": "🤖",
+    "synonyms": ["Coder", "Developer", "Gadgeteer"]
+  },
+  {
+    "label": "Foodie Explorer",
+    "description": "Passionate about trying new cuisines, sharing food pics, and dishing out restaurant recs.",
+    "traits": ["adventurous", "sensory", "expressive"],
+    "sample_posts": [
+      "Sushi omakase night = life changing.",
+      "Whipped up a vegan mushroom risotto!",
+      "Coffee tasting."
+    ],
+    "emoji": "🍣",
+    "synonyms": ["Gourmand", "Culinary Critic"]
+  },
+  {
+    "label": "Fitness Junkie",
+    "description": "All about gym routines, protein meals, and hitting new PRs.",
+    "traits": ["disciplined", "motivated", "goal-oriented"],
+    "sample_posts": [
+      "Deadlifted 200kg today. LET’S GO!",
+      "Meal prep Sunday: 200g chicken + broccoli.",
+      "HIIT cardio + heavy squats activate!"
+    ],
+    "emoji": "🏋️",
+    "synonyms": ["Gym Rat", "Athlete"]
+  },
+  {
+    "label": "Minimalist Artist",
+    "description": "Shares aesthetic visuals, poetry, and abstract thoughts—less is more.",
+    "traits": ["creative", "introspective", "aesthetic"],
+    "sample_posts": [
+      "A blank canvas holds infinite possibility.",
+      "Monochrome moments speak volumes.",
+      "What is the sound of a single brushstroke?"
+    ],
+    "emoji": "🎨",
+    "synonyms": ["Poet", "Visual Artist"]
+  },
+  {
+    "label": "Travel Nomad",
+    "description": "Obsessed with new places, local cultures, and wanderlust vibes.",
+    "traits": ["adventurous", "curious", "free-spirited"],
+    "sample_posts": [
+      "Sunrise hot-air balloon over Cappadocia 🔥",
+      "Lost in the souks of Marrakech.",
+      "Backpacking South America—next stop: Patagonia!"
+    ],
+    "emoji": "✈️",
+    "synonyms": ["Globetrotter", "Wanderer"]
+  },
+  {
+    "label": "Animal Lover",
+    "description": "Deeply connected to animals—posts about pets, rescue stories, and wildlife welfare.",
+    "traits": ["caring", "nurturing", "compassionate"],
+    "sample_posts": [
+      "My cat’s first snow day was the cutest thing ever ❄️🐱",
+      "Volunteer day at the animal shelter 🐶❤️",
+      "Adopt don’t shop. Every life matters."
+    ],
+    "emoji": "🐾",
+    "synonyms": ["Pet Parent", "Wildlife Advocate"]
+  },
+  {
+    "label": "Book Worm",
+    "description": "Devours novels, writes mini-reviews, and quotes favorite passages.",
+    "traits": ["thoughtful", "scholarly", "imaginative"],
+    "sample_posts": [
+      "Finished ‘The Name of the Wind’—mind blown.",
+      "A good book is a passport to another world.",
+      "Currently reading: Historical fiction + steaming tea."
+    ],
+    "emoji": "📚",
+    "synonyms": ["Reader", "Bibliophile"]
+  },
+  {
+    "label": "Music Buff",
+    "description": "Shares playlists, concert pics, and deep dives into genres.",
+    "traits": ["rhythmic", "passionate", "eclectic"],
+    "sample_posts": [
+      "Caught Coldplay live—incredible energy!",
+      "My top 5 jazz albums of all time.",
+      "Vinyl collection update: rare prog-rock finds."
+    ],
+    "emoji": "🎵",
+    "synonyms": ["Audiophile", "Concert-Goer"]
+  },
+  {
+    "label": "Movie Buff",
+    "description": "Obsessed with films—reviews blockbusters, quotes iconic lines, and attends festivals.",
+    "traits": ["cinematic", "analytical", "nostalgic"],
+    "sample_posts": [
+      "Just watched the Cannes Palme d'Or winner—mind blown!",
+      "'Here's looking at you, kid.' always gives me chills.",
+      "Marathon of Kubrick films this weekend."
+    ],
+    "emoji": "🎬",
+    "synonyms": ["Film Critic", "Cinephile"]
+  },
+  {
+    "label": "Plant Parent",
+    "description": "Loves plants of all kinds—shares care tips, growth updates, and botanical photography.",
+    "traits": ["nurturing", "patient", "green-thumbed"],
+    "sample_posts": [
+      "My monstera just unfurled a new leaf 🌿",
+      "Propagation success! Baby pothos everywhere.",
+      "Tips for watering succulents in summer heat."
+    ],
+    "emoji": "🌱",
+    "synonyms": ["Gardener", "Botany Lover"]
+  },
+  {
+    "label": "Gamer",
+    "description": "Streams gameplay, reviews new releases, and celebrates esports highlights.",
+    "traits": ["strategic", "competitive", "immersive"],
+    "sample_posts": [
+      "Just hit level 100 in my RPG campaign!",
+      "Twitch stream tonight—come hang!",
+      "Who else is hyped for the new Horizon game?"
+    ],
+    "emoji": "🎮",
+    "synonyms": ["Streamer", "Esports Fan"]
+  },
+  {
+    "label": "Fashionista",
+    "description": "Showcases outfits, discusses trends, and shares style inspiration.",
+    "traits": ["stylish", "trendsetting", "creative"],
+    "sample_posts": [
+      "OOTD: Vintage denim meets modern minimalism.",
+      "Paris Fashion Week highlights—so chic!",
+      "Mixing patterns like a pro today."
+    ],
+    "emoji": "👗",
+    "synonyms": ["Style Guru", "Trendsetter"]
+  },
+  {
+    "label": "Entrepreneur",
+    "description": "Talks startups, pitches ideas, and shares business lessons.",
+    "traits": ["visionary", "resilient", "driven"],
+    "sample_posts": [
+      "Just closed my seed round—onwards and upwards!",
+      "Bootstrapped to my first 100k users.",
+      "Lessons learned from my first pivot."
+    ],
+    "emoji": "🚀",
+    "synonyms": ["Startup Founder", "Business Builder"]
+  },
+  {
+    "label": "Crafts Maker",
+    "description": "Creates DIY projects—shares tutorials, materials hacks, and maker community updates.",
+    "traits": ["hands-on", "creative", "resourceful"],
+    "sample_posts": [
+      "Made this macramé wall hanging today!",
+      "Recycling pallets into furniture—so satisfying.",
+      "My top 5 resin art tips."
+    ],
+    "emoji": "🛠️",
+    "synonyms": ["DIY Enthusiast", "Handcrafter"]
+  },
+  {
+    "label": "Environmental Activist",
+    "description": "Advocates for sustainability—posts about climate action, eco-tips, and green innovations.",
+    "traits": ["passionate", "advocate", "conscientious"],
+    "sample_posts": [
+      "Zero-waste challenge starts now!",
+      "Planting trees with local community group.",
+      "Why we need renewable energy policies ASAP."
+    ],
+    "emoji": "🌍",
+    "synonyms": ["Eco-Warrior", "Climate Advocate"]
+  },
+  {
+    "label": "Parenting Mentor",
+    "description": "Shares parenting tips, family routines, and child development advice.",
+    "traits": ["supportive", "experienced", "nurturing"],
+    "sample_posts": [
+      "Potty training day 3: small wins matter!",
+      "Here’s how we do screen-free Sundays.",
+      "Meal planning for picky toddlers—life saver!"
+    ],
+    "emoji": "👶",
+    "synonyms": ["Momfluencer", "Dad Blogger"]
+  },
+  {
+    "label": "Wellness Guru",
+    "description": "Focuses on mental health, mindfulness, and holistic well-being.",
+    "traits": ["calm", "mindful", "grounded"],
+    "sample_posts": [
+      "10-minute morning meditation to reset your day.",
+      "Letting go of perfection and embracing progress.",
+      "My herbal tea lineup for a calmer evening."
+    ],
+    "emoji": "🧘",
+    "synonyms": ["Mindfulness Coach", "Holistic Influencer"]
+  },
+  {
+    "label": "Home Chef",
+    "description": "Cooks and shares original recipes, kitchen hacks, and food styling.",
+    "traits": ["creative", "precise", "flavor-focused"],
+    "sample_posts": [
+      "One-pan lemon garlic chicken—weeknight hero.",
+      "My secret to flaky pie crust? Ice-cold butter.",
+      "Sunday batch cooking: 3 sauces, 5 bases."
+    ],
+    "emoji": "👨‍🍳",
+    "synonyms": ["Recipe Creator", "Cooking Influencer"]
+  },
+  {
+    "label": "Finance Nerd",
+    "description": "Demystifies personal finance, investing, and money-saving hacks.",
+    "traits": ["practical", "calculated", "transparent"],
+    "sample_posts": [
+      "How I automated my savings goals with buckets.",
+      "Beginner tip: Index funds > individual stocks (usually).",
+      "3 bank accounts every freelancer should have."
+    ],
+    "emoji": "💰",
+    "synonyms": ["Money Coach", "Frugal Lifehacker"]
+  },
+  {
+    "label": "Petfluencer",
+    "description": "Shares adorable pet content, training tips, and pet product reviews.",
+    "traits": ["playful", "devoted", "charming"],
+    "sample_posts": [
+      "My corgi just learned to shake! 🐾",
+      "Pup review: best dog toys for chewers!",
+      "Lazy Sunday = cat cuddles and coffee ☕🐱"
+    ],
+    "emoji": "🐕",
+    "synonyms": ["Dog Mom", "Cat Dad", "Animal Content Creator"]
+  },
+  {
+    "label": "Political Commentator",
+    "description": "Engages in civic discussions, breaks down policies, and shares opinions on current events.",
+    "traits": ["opinionated", "informed", "engaged"],
+    "sample_posts": [
+      "Analyzing the latest election outcome—here’s what it means.",
+      "This policy shift affects millions—let’s unpack it.",
+      "Town hall debate tonight. Watching closely. 🏛️"
+    ],
+    "emoji": "🏛️",
+    "synonyms": ["News Junkie", "Civic Analyst"]
+  },
+  {
+    "label": "Pop Culture Fan",
+    "description": "Follows celeb news, viral trends, and iconic moments in entertainment.",
+    "traits": ["trendy", "reactive", "entertained"],
+    "sample_posts": [
+      "Can’t stop thinking about that Grammy performance 😭🔥",
+      "Just binge-watched the new reality show and I have THOUGHTS.",
+      "Memes from this week’s episode are already everywhere 😂"
+    ],
+    "emoji": "📰",
+    "synonyms": ["Trend Watcher", "Culture Critic"]
+  },
+  {
+    "label": "Digital Minimalist",
+    "description": "Advocates for tech-life balance, mindfulness, and intentional online use.",
+    "traits": ["reflective", "disciplined", "intentional"],
+    "sample_posts": [
+      "Replaced Instagram with journaling for a week—life-changing.",
+      "Unsubscribed from 100 emails = brain space.",
+      "Reading > doomscrolling. Again."
+    ],
+    "emoji": "🧩",
+    "synonyms": ["Slow Tech Advocate", "Focus Seeker"]
+  }
+]
