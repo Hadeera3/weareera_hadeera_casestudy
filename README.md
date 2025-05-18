@@ -31,50 +31,65 @@ Lit major turned empath. Send tea 🍵✨
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-1. Clone the Repository
+1. **Clone the repository**
 
+   ```bash
    git clone https://github.com/Hadeera3/weareera_task.git
    cd weareera_task
+   ```
 
-2. Install Poetry
+2. **Install Poetry**
 
-   On macOS:
+   **macOS / Linux (zsh)**
+
+   ```bash
    curl -sSL https://install.python-poetry.org | python3 -
    echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
    source ~/.zshrc
+   ```
 
-   On Windows (PowerShell):
+   **Windows (PowerShell)**
+
+   ```powershell
    (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python -
-   $env:Path += ";$env:USERPROFILE\\.local\\bin"
+   $env:Path += ";$env:USERPROFILE\.local\bin"
+   ```
 
    Verify installation:
+
+   ```bash
    poetry --version
+   ```
 
-3. Install Dependencies
+3. **Install dependencies**
 
+   ```bash
    poetry install --no-root
+   ```
 
-4. Run the App
+4. **Run the app**
 
+   ```bash
    poetry run streamlit run app.py
-
----
+   ```
 
 ## Project Structure
 
+```
 weareera_task/
-├── app.py # Streamlit UI
-├── assign_scores.py # Scoring + recommendation logic
-├── models.py # Model init + constants
-├── insights.py # Post style analytics
+├── app.py                       # Streamlit user interface
+├── assign_scores.py             # Personality scoring & product recommendation logic
+├── models.py                    # Model initialization & shared constants
+├── insights.py                  # Post-processing analytics
 ├── data/
-│ ├── personality_types_knowledge_base.json
-│ └── product_catalog.json
-├── pyproject.toml # Poetry config
-├── poetry.lock # Dependency lock file
-└── README.md # You're here!
+│   ├── personality_types_knowledge_base.json
+│   └── product_catalog.json
+├── pyproject.toml               # Poetry project configuration
+├── poetry.lock                  # Locked dependency versions
+└── README.md                    # Project documentation (you are here)
+```
 
 ---
 
