@@ -35,7 +35,7 @@ Lit major turned empath. Send tea 🍵✨
 
 1. Clone the Repository
 
-   git clone https://github.com/YOUR_USERNAME/weareera_task.git
+   git clone https://github.com/Hadeera3/weareera_task.git
    cd weareera_task
 
 2. Install Poetry
