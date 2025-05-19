@@ -6,6 +6,11 @@ A Streamlit-based app that analyzes a user's social media bio and recent posts t
 
 https://weareerahadeera1.streamlit.app
 
+### Video
+https://drive.google.com/file/d/1ffhg8YkjiYnApgf6CuxwOfvFrCvt4dZE/view
+
+
+
 ---
 
 ## What It Does
